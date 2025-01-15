@@ -6,9 +6,9 @@ import { ArrowRight } from "phosphor-react";
 export function ClaimUsernameForm(){
   return (
     <Form as="form">
-      <TextInput size="sm" prefix="scheduler.com/" placeholder="Username" />
+      <TextInput size="sm" prefix="call.er/" placeholder="seu-usuário" />
       <Button size="sm" type="submit">
-        Appointment
+        Reservar
         <ArrowRight />
       </Button>
     </Form>

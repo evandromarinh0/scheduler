@@ -9,8 +9,8 @@ export default function Home() {
   return (
     <Container>
       <Hero>
-        <Heading as="h1" size="4xl">Easy schedule</Heading>
-        <Text size="xl">Connect your calendar and allow people to schedule in your free time.</Text>
+        <Heading as="h1" size="4xl">Agendamento descomplicado</Heading>
+        <Text size="xl">Conecte seu calendário e permita que as pessoas agendem no seu tempo livre.</Text>
 
         <ClaimUsernameForm />
       </Hero>
